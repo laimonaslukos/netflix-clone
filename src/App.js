@@ -42,7 +42,6 @@ function App() {
             <Route exact path="/">
               <HomeScreen />
             </Route>
-
           </Switch>
         )}
       </Router>

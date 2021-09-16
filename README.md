@@ -1,6 +1,15 @@
 ## App egzample
 
-Open [Netflix Clone](https://new-netflix-clone-1b0f7.firebaseapp.com/) to view it in the browser.
+## Open [Netflix Clone](https://new-netflix-clone-1b0f7.firebaseapp.com/) to view it in the browser.
+
+## Sing up now (to register)
+
+* Enter your mail and password (any).
+
+
+## Subscribe (if you want get Home page :))
+
+* Enter Card information - 4242 4242 4242 4242 x 04/24 x 424 and any address.
 
 
 ## JPG
@@ -12,14 +21,6 @@ Open [Netflix Clone](https://new-netflix-clone-1b0f7.firebaseapp.com/) to view i
 
 
 
-## Sing up now (to register)
-
-1. Enter your mail and password (any).
-
-
-## Subscribe (if you want get Home page :))
-
-1. Enter Card information - 4242 4242 4242 4242 x 04/24 x 424 and any address.
 
 
 

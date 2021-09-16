@@ -7,7 +7,7 @@
 * Enter your mail and password (any).
 
 
-## Subscribe (if you want get Home page :))
+## Subscribe 
 
 * Enter Card information - 4242 4242 4242 4242 x 04/24 x 424 and any address.
 

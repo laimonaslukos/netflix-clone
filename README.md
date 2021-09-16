@@ -18,7 +18,7 @@
 
 ![Screenshot 2021-08-10 at 10-45-32 React Redux App](https://user-images.githubusercontent.com/79200136/128828712-5c746e5f-7138-4438-980e-502ecfb68ec0.png)
 
-
+1
 
 
 

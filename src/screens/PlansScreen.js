@@ -68,7 +68,7 @@ function PlansScreen() {
       }
       if (sessionId) {
         const stripe = await loadStripe(
-          "pk_test_51JKkqVHJAms5A9nmukXuHXZqhf37CJywSKkOpx2tW0A6rMdNi6O6NlfSZrjbECb4gSkKQWQ4EzaZqN3qNHKfZ88i00ZOfqXu6i"
+          "Your key"
         );
         stripe.redirectToCheckout({ sessionId });
       }

@@ -17,7 +17,7 @@ Open [Netflix Clone](https://new-netflix-clone-1b0f7.firebaseapp.com/) to view i
 1. Enter your mail and password (any).
 
 
-## Subscribe
+## Subscribe (if you want get Home page :))
 
 1. Enter Card information - 4242 4242 4242 4242 x 04/24 x 424 and any address.
 

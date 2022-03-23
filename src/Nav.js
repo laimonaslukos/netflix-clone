@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from "react";
 import { useHistory } from "react-router-dom";
 import "./Nav.css";
+import Avatar from "../src/avatar.png"
 
 function Nav() {
   const [show, handleShow] = useState(false);
@@ -28,7 +29,7 @@ function Nav() {
         <img
         onClick={()=> history.push("/profile")}
           className="nav_avatar"
-          src="https://commons.wikimedia.org/wiki/File:Netflix-avatar.png"
+          src={Avatar}
           alt="Netflix Avatar"
         />
       </div>
